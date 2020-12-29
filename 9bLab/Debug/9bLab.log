@@ -1,0 +1,3 @@
+﻿  lab9B.cpp
+D:\Visual Studio\repos\9bLab\lab9B.cpp(14,23): warning C4018: <: несоответствие типов со знаком и без знака
+  9bLab.vcxproj -> D:\Visual Studio\repos\9bLab\Debug\9bLab.exe
