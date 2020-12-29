@@ -1,0 +1,2 @@
+D:\Visual Studio\repos\6Lab\Debug\6Lab.exe
+D:\Visual Studio\repos\6Lab\Debug\6Lab.pdb
