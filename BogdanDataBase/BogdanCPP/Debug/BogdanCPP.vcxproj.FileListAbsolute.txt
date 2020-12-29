@@ -1,0 +1,5 @@
+D:\Visual Studio\repos\BogdanDataBase\BogdanCPP\Debug\BogdanCPP.vcxprojAssemblyReference.cache
+D:\Visual Studio\repos\BogdanDataBase\BogdanCPP\Debug\BogdanCPP.DeleteConfirmationForm.resources
+D:\Visual Studio\repos\BogdanDataBase\BogdanCPP\Debug\BogdanCPP.InfoForm.resources
+D:\Visual Studio\repos\BogdanDataBase\BogdanCPP\Debug\BogdanCPP.MainForm.resources
+D:\Visual Studio\repos\BogdanDataBase\BogdanCPP\Debug\BogdanCPP.vcxproj.GenerateResource.cache

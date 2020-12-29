@@ -1,0 +1,39 @@
+  BogdanCPP.DeleteConfirmationForm.resources - Embedded, ContainedInManifestFile, 
+  BogdanCPP.MainForm.resources - Embedded, ContainedInManifestFile, 
+  BogdanCPP.InfoForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly BogdanDataBase, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class BogdanDataBase.InfoForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BogdanDataBase.MainForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    BogdanDataBase.MainForm Instance : Public, Static
+  Methods:
+    ConnectToDB(): PrivateScope, Public, HideBySig
+    DisconnectFromDB(): PrivateScope, Public, HideBySig
+    AddNewUserToDB(): PrivateScope, Public, HideBySig
+    UpdateTableNamesFromDB(): PrivateScope, Public, HideBySig
+    UpdateDataFromDB(): PrivateScope, Public, HideBySig
+    UpdateDataGridTabels(): PrivateScope, Public, HideBySig
+    RemoveSelectedRows(): PrivateScope, Public, HideBySig
+    OnCellChanged(Object, DataGridViewCellEventArgs): PrivateScope, Public, HideBySig
+    OnConnectionStateChanged(Object, StateChangeEventArgs): PrivateScope, Public, HideBySig
+Class BogdanDataBase.DeleteConfirmationForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
