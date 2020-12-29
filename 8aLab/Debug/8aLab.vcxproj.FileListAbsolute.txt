@@ -1,0 +1,2 @@
+D:\Visual Studio\repos\8aLab\Debug\8aLab.exe
+D:\Visual Studio\repos\8aLab\Debug\8aLab.pdb

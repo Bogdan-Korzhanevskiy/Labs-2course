@@ -1,0 +1,3 @@
+﻿  lab8a.cpp
+D:\Visual Studio\repos\8aLab\lab8a.cpp(15,17): warning C4305: инициализация: усечение из "double" в "float"
+  8aLab.vcxproj -> D:\Visual Studio\repos\8aLab\Debug\8aLab.exe
