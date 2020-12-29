@@ -1,0 +1,4 @@
+﻿  Ppvs.cpp
+D:\Visual Studio\repos\2Lab\Ppvs.cpp(40,9): warning C4101: j: неиспользованная локальная переменная
+D:\Visual Studio\repos\2Lab\Ppvs.cpp(40,6): warning C4101: i: неиспользованная локальная переменная
+  2Lab.vcxproj -> D:\Visual Studio\repos\2Lab\Debug\2Lab.exe

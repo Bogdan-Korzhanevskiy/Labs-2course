@@ -1,0 +1,2 @@
+D:\Visual Studio\repos\2Lab\Debug\2Lab.exe
+D:\Visual Studio\repos\2Lab\Debug\2Lab.pdb
