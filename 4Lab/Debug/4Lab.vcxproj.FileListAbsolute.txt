@@ -1,0 +1,2 @@
+D:\Visual Studio\repos\4Lab\Debug\4Lab.exe
+D:\Visual Studio\repos\4Lab\Debug\4Lab.pdb
