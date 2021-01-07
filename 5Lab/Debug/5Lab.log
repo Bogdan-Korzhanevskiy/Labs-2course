@@ -1,0 +1,6 @@
+﻿  Func.cpp
+  main.cpp
+D:\Visual Studio\repos\5Lab\main.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Visual Studio\repos\5Lab\main.cpp(14,6): warning C4101: b: неиспользованная локальная переменная
+  Создание кода...
+  5Lab.vcxproj -> D:\Visual Studio\repos\5Lab\Debug\5Lab.exe
